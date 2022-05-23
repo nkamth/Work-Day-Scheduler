@@ -1,0 +1,85 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #0a0000;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.hidden{
+  visibility:hidden;
+}
+
+#clearFieldsBtn {
+  margin-top: 10px;
+}
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border: 1px solid rgb(248, 244, 244);;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left:1px dashed #000000 ;
+  border-top-left-radius: 9px;
+  border-bottom-left-radius: 9px;
+  text-align: center;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+  font-style: italic;
+  text-transform: capitalize;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+  text-transform: uppercase;
+}
+
+.future {
+  background-color: #FDF8F5;
+  color: rgb(110, 78, 78);
+  text-transform: capitalize;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
