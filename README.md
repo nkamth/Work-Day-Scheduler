@@ -25,10 +25,14 @@ SO THAT USER can manage the time effectively.
 
 ## GitHub Repo URL :
 
+https://github.com/nkamth/Work-Day-Scheduler
+
 ## Deployed URL :
+
+https://nkamth.github.io/Work-Day-Scheduler/
 
 ## Screenshot :
 
----
+## <img width="1270" alt="Screen Shot 2022-05-22 at 11 36 58 PM" src="https://user-images.githubusercontent.com/97250880/169738637-65513d49-323c-4a20-9a4d-96cedd1457f4.png">
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
